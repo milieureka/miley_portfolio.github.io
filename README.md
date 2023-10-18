@@ -3,9 +3,9 @@
 #### Technical Skills: Python, R, SQL, C#, HTML5, NodeJS, JS
 
 ## Education
-- Msc., Data Science | Deakin University, Australia (_2023 - 2025_)
-- Msc., Finance Enginering | WorldQuant University, USA (_2023 - 2025_)								       		
-- LLB., Laws	| Ho Chi Minh University of Law, Vietnam (_2013 - 2017_)	 			        		
+- Msc., Data Science         | Deakin University, Australia (_2023 - 2025_)
+- Msc., Financial Enginering | WorldQuant University, USA (_2023 - 2025_)								       		
+- LLB., Laws                 | Ho Chi Minh University of Law, Vietnam (_2013 - 2017_)	 			        		
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
